@@ -1,3 +1,4 @@
 # Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chxry&count_private=true)
+#### I make random things in ⚛React.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chxry)
