@@ -7,4 +7,4 @@
 - [floppapad](https://github.com/gosher-studios/floppapad) - macropad
 - [phosphor](https://github.com/chxry/phosphor), [cphosphor](https://github.com/chxry/cphosphor) - "game engines"
 
-### [website](https://chxry.github.io)
+### [website](https://floppa.systems)
